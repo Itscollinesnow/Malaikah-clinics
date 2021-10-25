@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b945faf3fcec4d738f97d1b5539406dc)](https://www.codacy.com/gh/kiara398/Malaikah-clinics/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kiara398/Malaikah-clinics&amp;utm_campaign=Badge_Grade)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
